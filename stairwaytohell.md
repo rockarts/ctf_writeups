@@ -1,5 +1,7 @@
 This is the code for the Stairway to Hell challenge for the Hacktober CTF. I really liked seeing a CTF with some programming challenges, I hope to see more in the future.
 
+![Stairway Challenge](/stairway.png)
+
 For this challenge we had to generate a staircase. Here is the code in Kotlin:
 
 
